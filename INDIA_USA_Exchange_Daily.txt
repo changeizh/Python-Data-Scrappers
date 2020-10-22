@@ -1,0 +1,1 @@
+"C:\Users\Manish\AppData\Local\Microsoft\WindowsApps\python3.exe" "C:\Users\Manish\1.Python Scripts\Python-Data-Scrappers\USA Exchange Rate.py"
